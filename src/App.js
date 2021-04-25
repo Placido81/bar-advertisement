@@ -11,7 +11,7 @@ function App() {
         <div className="container">
            <div className="pic-container">
            <h1 className="name">Ｅｓｃａｄａ Ｂａｒ</h1>
-             <img src="https://user-images.githubusercontent.com/70597385/115961201-5a08f500-a4e3-11eb-9b3c-3a7884ba80c9.jpeg" width="500px" height="200px" alt="beers"/>
+              <img src="https://user-images.githubusercontent.com/70597385/115961201-5a08f500-a4e3-11eb-9b3c-3a7884ba80c9.jpeg" width="500px" height="200px" alt="beers"/>
 
       </div>
       <footer> 
